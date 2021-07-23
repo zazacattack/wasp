@@ -1,0 +1,1 @@
+(self.webpackChunkweb=self.webpackChunkweb||[]).push([[2878],{1872:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/wasp/blog/tags","slug":"discord","name":"discord","count":1,"permalink":"/wasp/blog/tags/discord"}')}}]);
