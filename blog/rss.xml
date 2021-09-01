@@ -4,9 +4,16 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.github.io/wasp/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Thu, 29 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tutorial: `forall` in Haskell]]></title>
+            <link>https://wasp-lang.github.io/wasp/blog/2021/09/01/haskell-forall-tutorial</link>
+            <guid>Tutorial: `forall` in Haskell</guid>
+            <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[--------]]></description>
+        </item>
         <item>
             <title><![CDATA[How to implement a Discord bot (in NodeJS) that requires new members to introduce themselves]]></title>
             <link>https://wasp-lang.github.io/wasp/blog/2021/04/29/discord-bot-introduction</link>
