@@ -4,9 +4,16 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.github.io/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wasp raised $1.5M Seed Round led by Lunar Ventures and HV Capital]]></title>
+            <link>https://wasp-lang.github.io/blog/2021/11/21/seed-round</link>
+            <guid>Wasp raised $1.5M Seed Round led by Lunar Ventures and HV Capital</guid>
+            <pubDate>Sun, 21 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[export const Divider = () => (]]></description>
+        </item>
         <item>
             <title><![CDATA[Tutorial: `forall` in Haskell]]></title>
             <link>https://wasp-lang.github.io/blog/2021/09/01/haskell-forall-tutorial</link>
