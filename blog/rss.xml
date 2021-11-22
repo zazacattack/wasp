@@ -4,15 +4,22 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.github.io/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Sun, 21 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Wasp raised $1.5M Seed Round led by Lunar Ventures and HV Capital]]></title>
+            <title><![CDATA[Our fundraising learnings - 250+ meetings in 98 days to the oversubscribed round]]></title>
+            <link>https://wasp-lang.github.io/blog/2021/11/22/fundraising-learnings</link>
+            <guid>Our fundraising learnings - 250+ meetings in 98 days to the oversubscribed round</guid>
+            <pubDate>Mon, 22 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wasp fundraise chart]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Following YC, Wasp raised $1.5M Seed Round led by Lunar Ventures and HV Capital]]></title>
             <link>https://wasp-lang.github.io/blog/2021/11/21/seed-round</link>
-            <guid>Wasp raised $1.5M Seed Round led by Lunar Ventures and HV Capital</guid>
+            <guid>Following YC, Wasp raised $1.5M Seed Round led by Lunar Ventures and HV Capital</guid>
             <pubDate>Sun, 21 Nov 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[export const Divider = () => (]]></description>
+            <description><![CDATA[After graduating from Y Combinator's Winter 2021 Batch, we are super excited to announce that Wasp raised $1.5m in our first funding round! The round is led by Lunar Ventures and joined by HV Capital. Also see it in TechCrunch.]]></description>
         </item>
         <item>
             <title><![CDATA[Tutorial: `forall` in Haskell]]></title>
