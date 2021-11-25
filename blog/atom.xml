@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wasp-lang.github.io/wasp/blog</id>
+    <id>https://wasp-lang.dev/blog</id>
     <title>Wasp Blog</title>
     <updated>2021-11-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wasp-lang.github.io/wasp/blog"/>
+    <link rel="alternate" href="https://wasp-lang.dev/blog"/>
     <subtitle>Wasp Blog</subtitle>
-    <icon>https://wasp-lang.github.io/wasp/img/favicon.ico</icon>
+    <icon>https://wasp-lang.dev/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Our fundraising learnings - 250+ meetings in 98 days to the oversubscribed round]]></title>
         <id>Our fundraising learnings - 250+ meetings in 98 days to the oversubscribed round</id>
-        <link href="https://wasp-lang.github.io/wasp/blog/2021/11/22/fundraising-learnings"/>
+        <link href="https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings"/>
         <updated>2021-11-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Wasp fundraise chart]]></summary>
         <author>
@@ -21,7 +21,7 @@
     <entry>
         <title type="html"><![CDATA[Following YC, Wasp raised $1.5M Seed Round led by Lunar Ventures and HV Capital]]></title>
         <id>Following YC, Wasp raised $1.5M Seed Round led by Lunar Ventures and HV Capital</id>
-        <link href="https://wasp-lang.github.io/wasp/blog/2021/11/21/seed-round"/>
+        <link href="https://wasp-lang.dev/blog/2021/11/21/seed-round"/>
         <updated>2021-11-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[After graduating from Y Combinator's Winter 2021 Batch, we are super excited to announce that Wasp raised $1.5m in our first funding round! The round is led by Lunar Ventures and joined by HV Capital. Also see it in TechCrunch.]]></summary>
         <author>
@@ -32,7 +32,7 @@
     <entry>
         <title type="html"><![CDATA[Tutorial: `forall` in Haskell]]></title>
         <id>Tutorial: `forall` in Haskell</id>
-        <link href="https://wasp-lang.github.io/wasp/blog/2021/09/01/haskell-forall-tutorial"/>
+        <link href="https://wasp-lang.dev/blog/2021/09/01/haskell-forall-tutorial"/>
         <updated>2021-09-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[--------]]></summary>
         <author>
@@ -43,7 +43,7 @@
     <entry>
         <title type="html"><![CDATA[How to implement a Discord bot (in NodeJS) that requires new members to introduce themselves]]></title>
         <id>How to implement a Discord bot (in NodeJS) that requires new members to introduce themselves</id>
-        <link href="https://wasp-lang.github.io/wasp/blog/2021/04/29/discord-bot-introduction"/>
+        <link href="https://wasp-lang.dev/blog/2021/04/29/discord-bot-introduction"/>
         <updated>2021-04-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<img alt="Guest introducing themselves and getting full-access."]]></summary>
         <author>
@@ -54,7 +54,7 @@
     <entry>
         <title type="html"><![CDATA[Wasp - language for developing full-stack Javascript web apps with no boilerplate]]></title>
         <id>Wasp - language for developing full-stack Javascript web apps with no boilerplate</id>
-        <link href="https://wasp-lang.github.io/wasp/blog/2021/03/02/wasp-alpha"/>
+        <link href="https://wasp-lang.dev/blog/2021/03/02/wasp-alpha"/>
         <updated>2021-03-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<!---]]></summary>
         <author>
@@ -65,7 +65,7 @@
     <entry>
         <title type="html"><![CDATA[Journey to YCombinator]]></title>
         <id>Journey to YCombinator</id>
-        <link href="https://wasp-lang.github.io/wasp/blog/2021/02/23/journey-to-ycombinator"/>
+        <link href="https://wasp-lang.dev/blog/2021/02/23/journey-to-ycombinator"/>
         <updated>2021-02-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<img alt="Martin & Matija at YCombinator HQ"]]></summary>
         <author>
@@ -76,7 +76,7 @@
     <entry>
         <title type="html"><![CDATA[Hello Wasp!]]></title>
         <id>Hello Wasp!</id>
-        <link href="https://wasp-lang.github.io/wasp/blog/2019/09/01/hello-wasp"/>
+        <link href="https://wasp-lang.dev/blog/2019/09/01/hello-wasp"/>
         <updated>2019-09-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[About a year or so ago, brother and I started discussing how awesome it would be to have a programming language that would understand what “web app” means. Such language would, on one hand, serve as an expressive specification of the web app, while on the other hand, it would take care of “boring” work for us, while we could focus on the business logic specific for our web app.]]></summary>
         <author>
