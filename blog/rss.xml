@@ -4,9 +4,16 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.dev/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Mon, 22 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How we built a Trello clone with Wasp - Waspello!]]></title>
+            <link>https://wasp-lang.dev/blog/2021/12/02/waspello</link>
+            <guid>How we built a Trello clone with Wasp - Waspello!</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Waspello screenshot]]></description>
+        </item>
         <item>
             <title><![CDATA[Our fundraising learnings - 250+ meetings in 98 days to the oversubscribed round]]></title>
             <link>https://wasp-lang.dev/blog/2021/11/22/fundraising-learnings</link>
