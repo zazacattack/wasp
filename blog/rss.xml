@@ -4,9 +4,16 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.dev/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Thu, 02 Dec 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Meet the team - Shayne Czyzewski, Founding Engineer]]></title>
+            <link>https://wasp-lang.dev/blog/2021/12/21/shayne-intro</link>
+            <guid>Meet the team - Shayne Czyzewski, Founding Engineer</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Shayne intro banner]]></description>
+        </item>
         <item>
             <title><![CDATA[How we built a Trello clone with Wasp - Waspello!]]></title>
             <link>https://wasp-lang.dev/blog/2021/12/02/waspello</link>
