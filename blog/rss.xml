@@ -4,9 +4,16 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.dev/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Thu, 03 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to win a hackathon. Brief manual.]]></title>
+            <link>https://wasp-lang.dev/blog/2022/06/01/gitpod-hackathon-guide</link>
+            <guid>How to win a hackathon. Brief manual.</guid>
+            <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wasp app deploye to Gitpod]]></description>
+        </item>
         <item>
             <title><![CDATA[Meet the team - Martijn Faassen, Founding Engineer]]></title>
             <link>https://wasp-lang.dev/blog/2022/02/03/martijn-intro</link>
