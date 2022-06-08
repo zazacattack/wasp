@@ -2,17 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wasp-lang.dev/blog</id>
     <title>Wasp Blog</title>
-    <updated>2022-05-31T00:00:00.000Z</updated>
+    <updated>2022-06-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wasp-lang.dev/blog"/>
     <subtitle>Wasp Blog</subtitle>
     <icon>https://wasp-lang.dev/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Meet the team - Filip Sodić, Founding Engineer]]></title>
-        <id>Meet the team - Filip Sodić, Founding Engineer</id>
-        <link href="https://wasp-lang.dev/blog/2022/05/31/filip-intro"/>
-        <updated>2022-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome Filip!]]></summary>
+        <title type="html"><![CDATA[How to win a hackathon. Brief manual.]]></title>
+        <id>How to win a hackathon. Brief manual.</id>
+        <link href="https://wasp-lang.dev/blog/2022/06/01/gitpod-hackathon-guide"/>
+        <updated>2022-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wasp app deploye to Gitpod]]></summary>
+        <author>
+            <name>Maksym Khamrovskyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the team - Martijn Faassen, Founding Engineer]]></title>
+        <id>Meet the team - Martijn Faassen, Founding Engineer</id>
+        <link href="https://wasp-lang.dev/blog/2022/02/03/martijn-intro"/>
+        <updated>2022-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome Martijn!]]></summary>
         <author>
             <name>Matija Sosic</name>
             <uri>https://github.com/matijasos</uri>
