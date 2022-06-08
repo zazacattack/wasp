@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkweb=self.webpackChunkweb||[]).push([[1714],{392:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/haskell","name":"haskell","count":1,"permalink":"/blog/tags/haskell"}')}}]);
