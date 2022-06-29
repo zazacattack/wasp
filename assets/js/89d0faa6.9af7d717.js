@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkweb=self.webpackChunkweb||[]).push([[1695],{1356:s=>{s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/gitpod","name":"gitpod","count":1,"permalink":"/blog/tags/gitpod"}')}}]);
