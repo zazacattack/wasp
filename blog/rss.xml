@@ -4,9 +4,16 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.dev/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Wed, 15 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ML code generation vs coding by hand - a hypothesis of the future]]></title>
+            <link>https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future</link>
+            <guid>ML code generation vs coding by hand - a hypothesis of the future</guid>
+            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Language lifecycle]]></description>
+        </item>
         <item>
             <title><![CDATA[Feature Release Announcement - Wasp Jobs]]></title>
             <link>https://wasp-lang.dev/blog/2022/06/15/jobs-feature-announcement</link>
