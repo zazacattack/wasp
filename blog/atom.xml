@@ -8,8 +8,8 @@
     <subtitle>Wasp Blog</subtitle>
     <icon>https://wasp-lang.dev/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[ML code generation vs coding by hand - a hypothesis of the future]]></title>
-        <id>ML code generation vs coding by hand - a hypothesis of the future</id>
+        <title type="html"><![CDATA[ML code generation vs. coding by hand - what we think programming is going to look like]]></title>
+        <id>ML code generation vs. coding by hand - what we think programming is going to look like</id>
         <link href="https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future"/>
         <updated>2022-06-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Language lifecycle]]></summary>
