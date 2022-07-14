@@ -12,7 +12,7 @@
         <id>ML code generation vs. coding by hand - what we think programming is going to look like</id>
         <link href="https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future"/>
         <updated>2022-06-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Language lifecycle]]></summary>
+        <summary type="html"><![CDATA[We are working on a config language / DSL for building web apps that integrates with React & Node.js. A number of times we've been asked “Why are you bothering creating a new language for web app development? Isn’t Github Copilot\ soon going to be generating all the code for developers anyhow?*”.]]></summary>
         <author>
             <name>Matija Sosic</name>
             <uri>https://github.com/matijasos</uri>
