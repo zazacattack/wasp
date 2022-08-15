@@ -4,9 +4,16 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.dev/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Fri, 24 Jun 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to communicate why your startup is worth joining]]></title>
+            <link>https://wasp-lang.dev/blog/2022/08/15/how-to-communicate-why-your-startup-is-worth-joining</link>
+            <guid>How to communicate why your startup is worth joining</guid>
+            <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Except for a handful of companies who send people to Mars or develop AGI, most startups don’t seem to offer a good reason to join them. You go to their websites and all you see is vague, baseless, overly generic mission-schmission/values-schvalues HR nonsense that supposedly should turn you into a raving fan of whatever they’re doing and make you hit that “Join” button until their servers crash. Well…]]></description>
+        </item>
         <item>
             <title><![CDATA[ML code generation vs. coding by hand - what we think programming is going to look like]]></title>
             <link>https://wasp-lang.dev/blog/2022/06/24/ML-code-gen-vs-coding-by-hand-future</link>

@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wasp-lang.dev/blog</id>
     <title>Wasp Blog</title>
-    <updated>2022-06-24T00:00:00.000Z</updated>
+    <updated>2022-08-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wasp-lang.dev/blog"/>
     <subtitle>Wasp Blog</subtitle>
     <icon>https://wasp-lang.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to communicate why your startup is worth joining]]></title>
+        <id>How to communicate why your startup is worth joining</id>
+        <link href="https://wasp-lang.dev/blog/2022/08/15/how-to-communicate-why-your-startup-is-worth-joining"/>
+        <updated>2022-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Except for a handful of companies who send people to Mars or develop AGI, most startups don’t seem to offer a good reason to join them. You go to their websites and all you see is vague, baseless, overly generic mission-schmission/values-schvalues HR nonsense that supposedly should turn you into a raving fan of whatever they’re doing and make you hit that “Join” button until their servers crash. Well…]]></summary>
+        <author>
+            <name>Vasili Shynkarenka</name>
+            <uri>https://github.com/flreln</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ML code generation vs. coding by hand - what we think programming is going to look like]]></title>
         <id>ML code generation vs. coding by hand - what we think programming is going to look like</id>
