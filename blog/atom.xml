@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wasp-lang.dev/blog</id>
     <title>Wasp Blog</title>
-    <updated>2022-08-15T00:00:00.000Z</updated>
+    <updated>2022-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wasp-lang.dev/blog"/>
     <subtitle>Wasp Blog</subtitle>
     <icon>https://wasp-lang.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How and why I got started with Haskell]]></title>
+        <id>How and why I got started with Haskell</id>
+        <link href="https://wasp-lang.dev/blog/2022/08/26/how-and-why-i-got-started-with-haskell"/>
+        <updated>2022-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have been programming professionally for over a decade, using a variety of languages day-to-day including Ada, C, Java, Ruby, Elixir, and JavaScript. I’ve also tried some obscure ones, albeit less frequently and for different purposes: MIPS assembly language and OCaml for academic work (I’m a BS, MS, and PhD dropout in CS), and Zig for some side projects. In short, I like learning new languages (at least at a surface level) and have been exposed to different programming paradigms, including functional.]]></summary>
+        <author>
+            <name>Shayne Czyzewski</name>
+            <uri>https://github.com/shayneczyzewski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to communicate why your startup is worth joining]]></title>
         <id>How to communicate why your startup is worth joining</id>
