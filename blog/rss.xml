@@ -4,22 +4,22 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.dev/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Fri, 26 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Building a backbone for a full-stack web app with a single config file.]]></title>
+            <link>https://wasp-lang.dev/blog/2022/09/05/dev-excuses-app-tutrial</link>
+            <guid>Building a backbone for a full-stack web app with a single config file.</guid>
+            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’ll build a web app to solve every developer's most common problem – finding an excuse to justify our messy work! And will do it with a single config file that covers the full-stack app architecture plus several dozen lines of code. In the quickest possible way, so we can’t excuse ourselves from building it!]]></description>
+        </item>
         <item>
             <title><![CDATA[How and why I got started with Haskell]]></title>
             <link>https://wasp-lang.dev/blog/2022/08/26/how-and-why-i-got-started-with-haskell</link>
             <guid>How and why I got started with Haskell</guid>
             <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[I have been programming professionally for over a decade, using a variety of languages day-to-day including Ada, C, Java, Ruby, Elixir, and JavaScript. I’ve also tried some obscure ones, albeit less frequently and for different purposes: MIPS assembly language and OCaml for academic work (I’m a BS, MS, and PhD dropout in CS), and Zig for some side projects. In short, I like learning new languages (at least at a surface level) and have been exposed to different programming paradigms, including functional.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Building a backbone for a full-stack web app with a single config file.]]></title>
-            <link>https://wasp-lang.dev/blog/2022/08/24/dev-excuses-app-tutrial</link>
-            <guid>Building a backbone for a full-stack web app with a single config file.</guid>
-            <pubDate>Wed, 24 Aug 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[We’ll build a web app to solve every developer's most common problem – finding an excuse to justify our messy work! And will do it with a single config file that covers the full-stack app architecture plus several dozen lines of code. In the quickest possible way, so we can’t excuse ourselves from building it!]]></description>
         </item>
         <item>
             <title><![CDATA[How to communicate why your startup is worth joining]]></title>
