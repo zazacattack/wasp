@@ -19,6 +19,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building a backbone for a full-stack web app with a single config file.]]></title>
+        <id>Building a backbone for a full-stack web app with a single config file.</id>
+        <link href="https://wasp-lang.dev/blog/2022/08/24/dev-excuses-app-tutrial"/>
+        <updated>2022-08-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ll build a web app to solve every developer's most common problem – finding an excuse to justify our messy work! And will do it with a single config file that covers the full-stack app architecture plus several dozen lines of code. In the quickest possible way, so we can’t excuse ourselves from building it!]]></summary>
+        <author>
+            <name>Maksym Khamrovskyi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to communicate why your startup is worth joining]]></title>
         <id>How to communicate why your startup is worth joining</id>
         <link href="https://wasp-lang.dev/blog/2022/08/15/how-to-communicate-why-your-startup-is-worth-joining"/>
