@@ -8,11 +8,18 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Building a backbone for a full-stack web app with a single config file.]]></title>
+            <title><![CDATA[Building a backbone for a full-stack web app with a single config file]]></title>
             <link>https://wasp-lang.dev/blog/2022/09/05/dev-excuses-app-tutrial</link>
-            <guid>Building a backbone for a full-stack web app with a single config file.</guid>
+            <guid>Building a backbone for a full-stack web app with a single config file</guid>
             <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[We’ll build a web app to solve every developer's most common problem – finding an excuse to justify our messy work! And will do it with a single config file that covers the full-stack app architecture plus several dozen lines of code. In the quickest possible way, so we can’t excuse ourselves from building it!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to get started with Haskell in 2022 (the straightforward way)]]></title>
+            <link>https://wasp-lang.dev/blog/2022/09/02/how-to-get-started-with-haskell-in-2022</link>
+            <guid>How to get started with Haskell in 2022 (the straightforward way)</guid>
+            <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Haskell is a unique and beautiful language that is worth learning, if for nothing else, then just for the concepts it introduces. They will expand your view on programming.]]></description>
         </item>
         <item>
             <title><![CDATA[How and why I got started with Haskell]]></title>

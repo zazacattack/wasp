@@ -8,13 +8,24 @@
     <subtitle>Wasp Blog</subtitle>
     <icon>https://wasp-lang.dev/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Building a backbone for a full-stack web app with a single config file.]]></title>
-        <id>Building a backbone for a full-stack web app with a single config file.</id>
+        <title type="html"><![CDATA[Building a backbone for a full-stack web app with a single config file]]></title>
+        <id>Building a backbone for a full-stack web app with a single config file</id>
         <link href="https://wasp-lang.dev/blog/2022/09/05/dev-excuses-app-tutrial"/>
         <updated>2022-09-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We’ll build a web app to solve every developer's most common problem – finding an excuse to justify our messy work! And will do it with a single config file that covers the full-stack app architecture plus several dozen lines of code. In the quickest possible way, so we can’t excuse ourselves from building it!]]></summary>
         <author>
             <name>Maksym Khamrovskyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get started with Haskell in 2022 (the straightforward way)]]></title>
+        <id>How to get started with Haskell in 2022 (the straightforward way)</id>
+        <link href="https://wasp-lang.dev/blog/2022/09/02/how-to-get-started-with-haskell-in-2022"/>
+        <updated>2022-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Haskell is a unique and beautiful language that is worth learning, if for nothing else, then just for the concepts it introduces. They will expand your view on programming.]]></summary>
+        <author>
+            <name>Martin Sosic</name>
+            <uri>https://github.com/martinsos</uri>
         </author>
     </entry>
     <entry>
