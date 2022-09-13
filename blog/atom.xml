@@ -8,8 +8,8 @@
     <subtitle>Wasp Blog</subtitle>
     <icon>https://wasp-lang.dev/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Building a backbone for a full-stack web app with a single config file]]></title>
-        <id>Building a backbone for a full-stack web app with a single config file</id>
+        <title type="html"><![CDATA[Building an app to find an excuse for our sloppy work!]]></title>
+        <id>Building an app to find an excuse for our sloppy work!</id>
         <link href="https://wasp-lang.dev/blog/2022/09/05/dev-excuses-app-tutrial"/>
         <updated>2022-09-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We’ll build a web app to solve every developer's most common problem – finding an excuse to justify our messy work! And will do it with a single config file that covers the full-stack app architecture plus several dozen lines of code. In the quickest possible way, so we can’t excuse ourselves from building it!]]></summary>
