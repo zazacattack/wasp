@@ -8,9 +8,9 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Building an app to find an excuse for our sloppy work]]></title>
+            <title><![CDATA[Building an app to find an excuse for our sloppy work with Wasp]]></title>
             <link>https://wasp-lang.dev/blog/2022/09/05/dev-excuses-app-tutrial</link>
-            <guid>Building an app to find an excuse for our sloppy work</guid>
+            <guid>Building an app to find an excuse for our sloppy work with Wasp</guid>
             <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[We’ll build a web app to solve every developer's most common problem – finding an excuse to justify our messy work! And will do it with a single config file that covers the full-stack app architecture plus several dozen lines of code. In the quickest possible way, so we can’t excuse ourselves from building it!]]></description>
         </item>
