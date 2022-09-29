@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wasp-lang.dev/blog</id>
     <title>Wasp Blog</title>
-    <updated>2022-09-05T00:00:00.000Z</updated>
+    <updated>2022-09-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wasp-lang.dev/blog"/>
     <subtitle>Wasp Blog</subtitle>
     <icon>https://wasp-lang.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Wasp reached 1,000 stars on GitHub (detailed stats & timeline)]]></title>
+        <id>How Wasp reached 1,000 stars on GitHub (detailed stats &amp; timeline)</id>
+        <link href="https://wasp-lang.dev/blog/2022/09/29/journey-to-1000-gh-stars"/>
+        <updated>2022-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wasp is an open-source configuration language for building full-stack web apps that integrates with React & Node.js. We launched first prototype 2 years ago, currently are at 1.9k stars on GitHub and will be releasing Beta in the coming months.]]></summary>
+        <author>
+            <name>Matija Sosic</name>
+            <uri>https://github.com/matijasos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building an app to find an excuse for our sloppy work]]></title>
         <id>Building an app to find an excuse for our sloppy work</id>

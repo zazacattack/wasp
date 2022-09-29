@@ -4,9 +4,16 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.dev/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Mon, 05 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How Wasp reached 1,000 stars on GitHub (detailed stats & timeline)]]></title>
+            <link>https://wasp-lang.dev/blog/2022/09/29/journey-to-1000-gh-stars</link>
+            <guid>How Wasp reached 1,000 stars on GitHub (detailed stats &amp; timeline)</guid>
+            <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wasp is an open-source configuration language for building full-stack web apps that integrates with React & Node.js. We launched first prototype 2 years ago, currently are at 1.9k stars on GitHub and will be releasing Beta in the coming months.]]></description>
+        </item>
         <item>
             <title><![CDATA[Building an app to find an excuse for our sloppy work]]></title>
             <link>https://wasp-lang.dev/blog/2022/09/05/dev-excuses-app-tutrial</link>
