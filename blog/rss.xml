@@ -4,9 +4,16 @@
         <title>Wasp Blog</title>
         <link>https://wasp-lang.dev/blog</link>
         <description>Wasp Blog</description>
-        <lastBuildDate>Thu, 29 Sep 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Farnance: How Julian built a SaaS for farmers with Wasp and won a hackathon!]]></title>
+            <link>https://wasp-lang.dev/blog/2022/10/28/farnance-hackathon-winner</link>
+            <guid>Farnance: How Julian built a SaaS for farmers with Wasp and won a hackathon!</guid>
+            <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[farnance hero shot]]></description>
+        </item>
         <item>
             <title><![CDATA[How Wasp reached 1,000 stars on GitHub (detailed stats & timeline)]]></title>
             <link>https://wasp-lang.dev/blog/2022/09/29/journey-to-1000-gh-stars</link>
