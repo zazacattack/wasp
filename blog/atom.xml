@@ -8,7 +8,7 @@
     <subtitle>Wasp Blog</subtitle>
     <icon>https://wasp-lang.dev/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Why we chose Prisma]]></title>
+        <title type="html"><![CDATA[Why we chose Prisma as a database layer for Wasp]]></title>
         <id>/2022/11/28/why-we-chose-prisma</id>
         <link href="https://wasp-lang.dev/blog/2022/11/28/why-we-chose-prisma"/>
         <updated>2022-11-28T00:00:00.000Z</updated>

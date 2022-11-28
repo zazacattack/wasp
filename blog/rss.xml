@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Why we chose Prisma]]></title>
+            <title><![CDATA[Why we chose Prisma as a database layer for Wasp]]></title>
             <link>https://wasp-lang.dev/blog/2022/11/28/why-we-chose-prisma</link>
             <guid>/2022/11/28/why-we-chose-prisma</guid>
             <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
